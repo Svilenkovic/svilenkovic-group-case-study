@@ -2,7 +2,7 @@
 
 Sistemi za više brendova.
 
-**[svilenkovicgroup.com](https://svilenkovicgroup.com/)** · [English](README.md)
+**[svilenkovicgroup.com](https://svilenkovicgroup.com/)** · [Studija: Denis Market 97](https://svilenkovicgroup.com/studije/denis-market-dva-posla-jedan-sistem/) · [English](README.md)
 
 > [!NOTE]
 > Samostalni projekat D. Svilenkovića. Produkcijski izvor ostaje u privatnom repozitorijumu; ovaj javni repozitorijum dokumentuje izvedeni rad.
@@ -10,7 +10,7 @@ Sistemi za više brendova.
 <table>
   <tr><td><b>Vrsta</b></td><td>Sistemi za više brendova</td></tr>
   <tr><td><b>Jezici</b></td><td>srpski i engleski</td></tr>
-  <tr><td><b>Javne rute</b></td><td>16 canonical stranica</td></tr>
+  <tr><td><b>Javne rute</b></td><td>18 canonical stranica</td></tr>
   <tr><td><b>Uloga</b></td><td>istraživanje, dizajn, razvoj, SEO, hosting i održavanje</td></tr>
   <tr><td><b>Tehnologije</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
 </table>

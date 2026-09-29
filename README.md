@@ -2,7 +2,7 @@
 
 A multi-brand website about shared content, separate identities and governance across a portfolio of sites.
 
-**[svilenkovicgroup.com](https://svilenkovicgroup.com/)** · [Srpski](README.sr.md)
+**[svilenkovicgroup.com](https://svilenkovicgroup.com/)** · [Denis Market 97 case study](https://svilenkovicgroup.com/en/case-studies/denis-market-two-businesses-one-system/) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > This is an independent project by D. Svilenković. The production source stays in a private repository; this public repository documents the work.
@@ -10,7 +10,7 @@ A multi-brand website about shared content, separate identities and governance a
 <table>
   <tr><td><b>Type</b></td><td>Multi-brand web systems</td></tr>
   <tr><td><b>Languages</b></td><td>Serbian and English</td></tr>
-  <tr><td><b>Public routes</b></td><td>16 canonical pages</td></tr>
+  <tr><td><b>Public routes</b></td><td>18 canonical pages</td></tr>
   <tr><td><b>Role</b></td><td>Research, design, development, SEO, hosting and maintenance</td></tr>
   <tr><td><b>Stack</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
 </table>
