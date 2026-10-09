@@ -1,42 +1,58 @@
+<a href="https://svilenkovicgroup.com/"><img src="media/cover.jpg" alt="Svilenković Group, naslovna strana na laptopu i telefonu" width="100%"></a>
+
 # Svilenković Group
 
-Sistemi za više brendova.
+Sajt o vođenju više brendova na zajedničkim podacima, dok svaki zadržava svoj glas, sa interaktivnom prizmom kao primerom.
 
-**[svilenkovicgroup.com](https://svilenkovicgroup.com/)** · [Studija: Denis Market 97](https://svilenkovicgroup.com/studije/denis-market-dva-posla-jedan-sistem/) · [English](README.md)
+**[svilenkovicgroup.com](https://svilenkovicgroup.com/)** · [Studija slučaja](https://svilenkovic.rs/radovi/svilenkovic-group) · [English](README.md)
 
 > [!NOTE]
-> Samostalni projekat D. Svilenkovića. Produkcijski izvor ostaje u privatnom repozitorijumu; ovaj javni repozitorijum dokumentuje izvedeni rad.
+> Moj sopstveni projekat, ne klijentski posao. Izvorni kod je privatan. Ova stranica opisuje šta sajt radi i kako je napravljen.
 
 <table>
-  <tr><td><b>Vrsta</b></td><td>Sistemi za više brendova</td></tr>
-  <tr><td><b>Jezici</b></td><td>srpski i engleski</td></tr>
-  <tr><td><b>Javne rute</b></td><td>18 canonical stranica</td></tr>
-  <tr><td><b>Uloga</b></td><td>istraživanje, dizajn, razvoj, SEO, hosting i održavanje</td></tr>
-  <tr><td><b>Tehnologije</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
+  <tr><td><b>Klijent</b></td><td>Sopstveni projekat</td></tr>
+  <tr><td><b>Delatnost</b></td><td>Sistemi za više brendova</td></tr>
+  <tr><td><b>Lokacija</b></td><td>Srbija</td></tr>
+  <tr><td><b>Vrsta</b></td><td>Sajt sa više strana</td></tr>
+  <tr><td><b>Moj deo posla</b></td><td>Istraživanje, dizajn, izrada, SEO i hosting</td></tr>
+  <tr><td><b>Tehnologije</b></td><td>Astro 7, TypeScript, GSAP, PHP 8.3, SQLite, nginx</td></tr>
 </table>
 
-## Namena
+## O projektu
 
-Više brendova često ponavlja iste podatke, ali ih prikazuje različitim glasom. Projekat objašnjava šta treba deliti, šta mora ostati samostalno i kako se izmene bezbedno prenose kroz grupu sajtova.
+Kad firma vodi više brendova, cilj nije da svi sajtovi izgledaju isto. Zajednički mogu da budu podaci, uloge i održavanje, dok svaki brend zadržava svoj ton i vizuelni identitet. Svilenković Group tu razliku pretvara u model koji se vidi.
 
-## Dizajn pravac
+Na naslovnoj se jedan oblik, dok se skroluje, lomi u nekoliko različitih vizuelnih svetova, kao slika sistema koji deli podatke, a ne nameće isti izgled. Na strani Prizma menjate jedan unos i vidite ga prikazanog u tri brenda; to je demonstracija sa primerima, ne tvrdnja o stvarnim poslovnim bazama. Posebne strane obrađuju ko sme šta da menja i kako izmena stiže na više sajtova.
 
-Prizma brendova deli jedan izvor na više vizuelnih izlaza. Petrol, mesingani i magenta planovi prolaze kroz različite identitete uz vidljivo zajedničko središte.
+## Šta sam uradio
 
-## Šta je urađeno
+- Interaktivna prizma: jedan unos prikazan u tri brenda
+- Strane o ulogama i objavljivanju i o održavanju više sajtova
+- Scena uz skrol u GSAP-u, a tekst i veze ostaju dostupni i kad je pokret isključen
+- Kontrole za pauziranje pokreta i pristup svakoj celini tastaturom
+- Srpska i engleska verzija celog sajta
 
-- Zajednički podaci odvojeni od jezika i rasporeda pojedinačnog brenda
-- Upravljanje, objava i održavanje kao deo dizajnerskog problema
-- Prizma koja prikazuje jedan izvor i više identiteta
-- Samostalne srpske i engleske rute celog sajta
-- Pristupačne kontrole za pauzu animacije i kretanje kroz sve celine
+## Merenja
 
-## Provere izdanja
+| | Performanse | Pristupačnost | Dobre prakse | SEO |
+| :-- | :-: | :-: | :-: | :-: |
+| Telefon | 100 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-Svaka canonical ruta proverena je na širinama 390, 768, 1440 i 1920 px. Izdanje je provereno i bez JavaScript-a i uz reduced-motion postavku. Žive provere obuhvatile su HTTPS, preusmerenja, zaglavlja odgovora, strukturirane podatke, sitemap fajlove, zaštićene putanje i neispravne kontakt zahteve bez slanja test poruka.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `Organization`, `Person`.
 
-Ovo su inženjerske provere, a ne tvrdnje o poziciji u pretrazi ili terenskim performansama.
+## Snimci ekrana
+
+<table>
+  <tr>
+    <td width="68%" valign="top"><img src="media/desktop.webp" alt="Svilenković Group, naslovna strana na ekranu širine 1440 px"></td>
+    <td width="32%" valign="top"><img src="media/mobile.webp" alt="Svilenković Group, naslovna strana na telefonu"></td>
+  </tr>
+</table>
+
+<img src="media/inner-1.webp" alt="Interaktivna prizma na živom sajtu">
+<sub>Interaktivna prizma na živom sajtu</sub>
 
 ---
 
-<sub>Dizajn i izrada: [D. Svilenković](https://svilenkovic.com).</sub>
+<sub>Izrada: [D. Svilenković](https://svilenkovic.rs).</sub>
